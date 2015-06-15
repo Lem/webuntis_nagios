@@ -1,5 +1,6 @@
 # Nagios-Check for monitoring your untis-powered timetables
-
+## Notice
+This notified me ony on events like cancelled lessons or substitution
 ## Configuration-Example
 Service:
 ```
