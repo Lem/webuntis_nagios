@@ -1,6 +1,8 @@
 # Nagios-Check for monitoring your untis-powered timetables
 ## Notice
 This notified me ony on events like cancelled lessons or substitution
+
+Using the [python-modul written by Unitaker](https://github.com/untitaker/python-webuntis/). 
 ## Configuration-Example
 Service:
 ```
